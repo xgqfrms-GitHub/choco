@@ -1,10 +1,20 @@
 # Chocolatey 
 
+> Chocolatey - kind of like apt-get, but for Windows
+
+https://github.com/chocolatey/choco/wiki
+
+
+
 ##  Chocolatey Release Notes
 
 0.10.3 (October 7, 2016)
 
 https://github.com/chocolatey/choco/wiki/ReleaseNotes
+
+
+
+
 
 ## CommandsReference
 
@@ -18,6 +28,9 @@ https://github.com/chocolatey/choco/wiki/CommandsReference
 -f, --force
 
 ``` 
+
+
+
 
 ## Commands
 
